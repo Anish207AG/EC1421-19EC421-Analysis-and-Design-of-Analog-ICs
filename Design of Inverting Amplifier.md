@@ -61,7 +61,7 @@ Choose  R1 = 1kΩ, Rf=10kΩ
 
 ## GRAPH:
 
-![WhatsApp Image 2025-11-18 at 19 13 03_1729b5d8](https://github.com/user-attachments/assets/4b622088-76a6-49c6-9431-8c35d6a1de92)
+![WhatsApp Image 2025-11-18 at 19 20 39_c3f5b763](https://github.com/user-attachments/assets/3430004c-e4e2-4058-86d5-a7be84566e13)
 
 
 ## RESULT:
