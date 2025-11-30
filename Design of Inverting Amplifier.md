@@ -65,5 +65,5 @@ Choose  R1 = 1kΩ, Rf=10kΩ
 
 
 ## RESULT:
-Thus the Inverting is designed and their performance was successfully tested using op-amp IC 741. 
+Thus the Inverting is designed and their performance was successfully tested using op-amp IC 741.  
 
