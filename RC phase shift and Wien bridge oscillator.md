@@ -55,9 +55,9 @@ The frequency of oscillation is given by fo = 1/2πRC
 
 
 ## GRAPH:
-### RC PHASE SHIFT OSCILLATOR:
 
-### WEIN BRIDGE:
+![WhatsApp Image 2025-11-30 at 19 24 57_b9bc053b](https://github.com/user-attachments/assets/fb84ff1b-019c-4a31-8655-fb2284706bbe)
+
 
 ## RESULT:
 Thus the RC Phase Shift and Wien Bridge oscillators are designed and tested using op-amp IC 741.
